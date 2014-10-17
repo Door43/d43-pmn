@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pmn:home|Door43 (pmn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pmn|d43-pmn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pmn/archive/master.zip|d43-pmn.zip]]
+
+**Recent Changes**
+{{changes>ns = pmn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pmn|Ethnologue data]]
+
